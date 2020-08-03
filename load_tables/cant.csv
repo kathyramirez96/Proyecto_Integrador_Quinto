@@ -1,0 +1,221 @@
+101,Cuenca,3
+102,Girón,3
+103,Gualaceo,3
+104,Nabon,3
+105,Paute,3
+106,Pucara,3
+107,San Fernando,3
+108,Santa Isabel,3
+109,Sigsig,3
+110,Oña,3
+111,Chordeleg,3
+112,El Pan,3
+113,Sevilla de Oro,3
+114,Guachapala,3
+115,Camilo Ponce Enríquez,3
+201,Guaranda,4
+202,Chillanes,4
+203,Chimbo,4
+204,Echeandia,4
+205,San Miguel,4
+206,Caluma,4
+207,Las Naves,4
+301,Azogues,5
+302,Biblian,5
+303,Cañar,5
+304,La Troncal,5
+305,El Tambo,5
+306,Deleg,5
+307,Suscal,5
+401,Tulcán,6
+402,Bolívar,6
+403,Espejo,6
+404,Mira,6
+405,Montufar,6
+406,San Pedro de Huaca,6
+501,Latacunga,7
+502,La Mana,7
+503,Pangua,7
+504,Pujili,7
+505,Salcedo,7
+506,Saquisili,7
+507,Sigchos,7
+601,Riobamba,8
+602,Alausi,8
+603,Colta,8
+604,Chambo,8
+605,Chunchi,8
+606,Guamote,8
+607,Guano,8
+608,Pallatanga,8
+609,Penipe,8
+610,Cumanda,8
+1001,Ibarra,9
+1002,Antonio Ante,9
+1003,Cotacachi,9
+1004,Otavalo,9
+1005,Pimampiro,9
+1006,San Miguel de Urcuqui,9
+1101,Loja,10
+1102,Calvas,10
+1103,Catamayo,10
+1104,Celica,10
+1105,Chaguarpamba,10
+1106,Espindola,10
+1107,Gonzanama,10
+1108,Macara,10
+1109,Paltas,10
+1110,Puyango,10
+1111,Saraguro,10
+1112,Sozoranga,10
+1113,Zapotillo,10
+1114,Pindal,10
+1115,Quilanga,10
+1116,Olmedo,10
+1701,Quito,11
+1702,Cayambe,11
+1703,Mejia,11
+1704,Pedro Moncayo,11
+1705,Rumiñahui,11
+1707,San Miguel de los Bancos,11
+1708,Pedro Vicente Maldonado,11
+1709,Puerto Quito,11
+1801,Ambato,12
+1802,Baños de Agua Santa,12
+1803,Cevallos,12
+1804,Mocha,12
+1805,Patate,12
+1806,Quero,12
+1807,Pelileo,12
+1808,Pillaro,12
+1809,Tisaleo,12
+2301,Santo Domingo,13
+2302,La Concordia,13
+701,Arenillas,15
+702,Machala,15
+703,Atahualpa,15
+704,Balsas,15
+705,Chilla,15
+706,El Guabo,15
+707,Huaquillas,15
+708,Marcabeli,15
+709,Pasaje,15
+710,Piñas,15
+711,Portovelo,15
+712,Santa Rosa,15
+713,Zaruma,15
+714,Las Lajas,15
+801,Esmeraldas,16
+802,Eloy Alfaro,16
+803,Muisne,16
+804,Quininde,16
+805,San Lorenzo,16
+806,Atacames,16
+807,Rioverde,16
+901,Guayaquil,17
+902,Alfredo Baquerizo Moreno (Jujan),17
+903,Balao,17
+904,Balzar,17
+905,Colimes,17
+906,Daule,17
+907,Durán,17
+908,El Empalme,17
+909,El Triunfo,17
+910,Milagro,17
+911,Naranjal,17
+912,Naranjito,17
+913,Palestina,17
+914,Pedro Carbo,17
+916,Samborondón,17
+918,Santa Lucia,17
+919,Salitre (Urbina Jado),17
+920,Yaguachi,17
+921,Playas,17
+922,Simón Bolívar,17
+923,Coronel Marcelino Maridueña,17
+924,Lomas de Sargentillo,17
+925,Nobol,17
+927,General  Antonio Elizalde,17
+928,Isidro Ayora,17
+1201,Babahoyo,18
+1202,Baba,18
+1203,Montalvo,18
+1204,Puebloviejo,18
+1205,Quevedo,18
+1206,Urdaneta,18
+1207,Ventanas,18
+1208,Vinces,18
+1209,Palenque,18
+1210,Buena Fé,18
+1211,Valencia,18
+1212,Mocache,18
+1213,Quinsaloma,18
+1301,Portoviejo,19
+1302,Bolívar,19
+1303,Chone,19
+1304,El Carmen,19
+1305,Flavio Alfaro,19
+1306,Jipijapa,19
+1307,Junin,19
+1308,Manta,19
+1309,Montecristi,19
+1310,Pajan,19
+1311,Pichincha,19
+1312,Rocafuerte,19
+1313,Santa Ana,19
+1314,Sucre,19
+1315,Tosagua,19
+1316,24 De Mayo,19
+1317,Pedernales,19
+1318,Olmedo,19
+1319,Puerto Lopez,19
+1320,Jama,19
+1321,Jaramijo,19
+1322,San Vicente,19
+2401,Santa Elena,20
+2402,La Libertad,20
+2403,Salinas,20
+1401,Morona,22
+1402,Gualaquiza,22
+1403,Limón Indanza,22
+1404,Palora,22
+1405,Santiago,22
+1406,Sucua,22
+1407,Huamboya,22
+1408,San Juan Bosco,22
+1409,Taisha,22
+1410,Logroño,22
+1411,Pablo Sexto,22
+1412,Tiwintza,22
+1501,Tena,23
+1503,Archidona,23
+1504,El Chaco,23
+1507,Quijos,23
+1509,Carlos Julio Arosemena Tola,23
+1601,Pastaza,24
+1602,Mera,24
+1603,Santa Clara,24
+1604,Arajuno,24
+1901,Zamora,25
+1902,Chinchipe,25
+1903,Nangaritza,25
+1904,Yacuambi,25
+1905,Yantzaza,25
+1906,El Pangui,25
+1907,Centinela del Condor,25
+1908,Palanda,25
+1909,Paquisha,25
+2101,Lago Agrio,26
+2102,Gonzalo Pizarro,26
+2103,Putumayo,26
+2104,Shushufindi,26
+2105,Sucumbíos,26
+2106,Cascales,26
+2107,Cuyabeno,26
+2201,Orellana,27
+2202,Aguarico,27
+2203,La Joya de los Sachas,27
+2204,Loreto,27
+2001,San Cristobal,29
+2002,Isabela,29
+2003,Santa Cruz,29
